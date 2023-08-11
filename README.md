@@ -52,4 +52,3 @@ Users should be able to:
 - Twitter - [@yeshua_codeit](https://www.twitter.com/yeshua_codeit)
 
 # product-preview-card
-# product-preview-card
